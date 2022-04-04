@@ -47,6 +47,10 @@ thead th{
     text-align: left;
 }
 
+footer div{
+    margin: auto;
+}
+
 .first-row{
     background-color: rgb(173, 232, 247);
 }
