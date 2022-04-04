@@ -28,3 +28,29 @@ main h1{
 main span{
     color: rgb(21, 189, 255);
 }
+
+figure{ 
+    margin: 0;
+}
+
+ul{
+    padding-inline-start: 15px;
+}
+
+table thead{
+    color: white;
+    background-color: rgb(6, 160, 250);
+}
+
+thead th{
+    width: 10%;
+    text-align: left;
+}
+
+.first-row{
+    background-color: rgb(173, 232, 247);
+}
+
+.third-row{
+    background-color: rgb(173,232,247);
+}
