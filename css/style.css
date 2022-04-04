@@ -41,6 +41,10 @@ ul{
     padding-inline-start: 15px;
 }
 
+table{
+    border-spacing: 0px;
+}
+
 table thead{
     color: white;
     background-color: rgb(6, 160, 250);
