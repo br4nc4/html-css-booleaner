@@ -29,6 +29,10 @@ main span{
     color: rgb(21, 189, 255);
 }
 
+main div{
+    height: 200px;
+}
+
 figure{ 
     margin: 0;
 }
@@ -47,14 +51,28 @@ thead th{
     text-align: left;
 }
 
-footer div{
-    margin: auto;
-}
-
 .first-row{
     background-color: rgb(173, 232, 247);
 }
 
 .third-row{
     background-color: rgb(173,232,247);
+}
+
+.img1{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+
+.img2{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+}
+
+.footer h3{
+    color: rgb(145, 142, 142);
+}
+
+.footer h2{
+    color: white;
 }
